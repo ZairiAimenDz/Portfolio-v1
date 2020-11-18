@@ -1,0 +1,19 @@
+html,body { 
+    scroll-snap-type: y mandatory;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(23, 37, 61);
+    color: white;
+}
+
+.fp-section {
+    height: 100vh;
+    width: 100vw;
+    scroll-snap-align: start;
+}
+section{
+    scroll-snap-align: start;
+}

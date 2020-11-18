@@ -5,7 +5,7 @@ html,body {
 }
 
 body{
-    background-color: rgb(23, 37, 61);
+    background-color: rgb(20, 55, 71);
     color: white;
 }
 
@@ -14,6 +14,6 @@ body{
     width: 100vw;
     scroll-snap-align: start;
 }
-section{
+.snapstart{
     scroll-snap-align: start;
 }
